@@ -24,13 +24,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig-amd"
-#define APP_NAME      "XMRig-AMD"
-#define APP_DESC      "XMRig OpenCL miner"
+#define APP_ID        ""
+#define APP_NAME      ""
+#define APP_DESC      ""
 #define APP_VERSION   "2.8.4"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2018 xmrig.com"
+#define APP_DOMAIN    ""
+#define APP_SITE      ""
+#define APP_COPYRIGHT ""
 #define APP_KIND      "amd"
 
 #define APP_VER_MAJOR  2

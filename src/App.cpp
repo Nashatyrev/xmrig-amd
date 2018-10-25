@@ -160,6 +160,8 @@ void App::onConsoleCommand(char command)
         }
         break;
 
+	case 'q':
+	case 'Q':
     case 3:
         LOG_WARN("Ctrl+C received, exiting");
         close();
